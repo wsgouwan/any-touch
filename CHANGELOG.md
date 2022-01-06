@@ -7,6 +7,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
+<a name=""></a>
+# [](https://github.com/any86/any-touch/compare/v2.0.2-alpha.1...v) (2022-01-06)
+
+
+
 <a name="0.5.2"></a>
 ## [0.5.2](https://github.com/any86/any-touch/compare/v0.5.1...v0.5.2) (2019-12-05)
 
